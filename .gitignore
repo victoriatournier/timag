@@ -73,6 +73,9 @@ imagenes/
 *.tif
 *.pdf
 *.txt
+*.zip
+*.csv
+
 # Sphinx documentation
 docs/_build/
 
